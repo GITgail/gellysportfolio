@@ -1,5 +1,11 @@
 body {
     margin: 0;
-    background: pink;
+    background: linear-gradient(rgb(137, 137, 161), purple);
     text-align: center;
 }
+a:link {
+    color: red;
+}
+a:hover {
+    color: #0000ff;
+} 
